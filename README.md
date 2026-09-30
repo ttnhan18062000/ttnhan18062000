@@ -34,19 +34,6 @@
 
 ---
 
-## 🎮 Side Quests
-
-| | Game / Project | Notes |
-|---|---|---|
-| 🏰 | [**DungeonCrawlerWithUnity**](https://github.com/ttnhan18062000/DungeonCrawlerWithUnity) | Dungeon crawler in Unity (C#), v2.0 |
-| 🐍 | [**AIGameProject**](https://github.com/ttnhan18062000/AIGameProject) | Snake that learns to play with a genetic algorithm |
-| 👻 | [**AIFollowPlayer**](https://github.com/ttnhan18062000/AIFollowPlayer) | Enemy AI that finds the best path to catch the player |
-| 🤖 | [**llm-powered-server-management-chatbot**](https://github.com/ttnhan18062000/llm-powered-server-management-chatbot) | Manage servers by chatting with an LLM |
-| 🩺 | [**healthcare-chatbot**](https://github.com/ttnhan18062000/healthcare-chatbot) | [Live demo](https://healthcare-chatbot-rouge.vercel.app) (TypeScript) |
-| 🔬 | [**XAI-Sentence-Embedding**](https://github.com/ttnhan18062000/XAI-Sentence-Embedding) | Explaining sentence embeddings & textual similarity |
-
----
-
 ## 🎒 Inventory
 
 <div align="center">
