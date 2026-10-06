@@ -15,10 +15,6 @@
     <td width="60%">
       <h3><a href="https://github.com/ttnhan18062000/rpg-based-simulation">Project F</a></h3>
       <i>A living-world simulation of a fantasy frontier.</i><br/><br/>
-      The world runs on its own. Nobody is scripted, nobody is the hero.<br/>
-      Everyone acts on rumours, not the truth.<br/>
-      Places scar. Heirs inherit the grudge.
-      <br/><br/>
       <sub>A Python world engine, with a TypeScript and Godot window into it.</sub><br/>
       <img src="https://skillicons.dev/icons?i=py,fastapi,ts,react,vite,tailwind,docker,githubactions,godot&theme=dark" alt="stack" />
     </td>
