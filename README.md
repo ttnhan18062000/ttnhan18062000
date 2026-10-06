@@ -20,8 +20,7 @@
       Places scar. Heirs inherit the grudge.
       <br/><br/>
       <sub>A Python world engine, with a TypeScript and Godot window into it.</sub><br/>
-      <img src="https://skillicons.dev/icons?i=py,fastapi,ts,react,vite,tailwind,docker,githubactions,godot&theme=dark" alt="stack" /><br/>
-      <sub>Godot: planned renderer</sub>
+      <img src="https://skillicons.dev/icons?i=py,fastapi,ts,react,vite,tailwind,docker,githubactions,godot&theme=dark" alt="stack" />
     </td>
     <td width="40%" align="center">
       <!-- TODO: GIF of the world running, e.g. assets/world.gif -->
